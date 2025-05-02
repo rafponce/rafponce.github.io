@@ -7,11 +7,14 @@
 
 # Main Page Setup
 
-title: Rafael Ponce De Leon's Portfolio # This is what shows up in the tab of the browser
+title: John Doe's Portfolio # This is what shows up in the tab of the browser
+
+
+
 # Hero Section
-name: Rafael Ponce De Leon
-headline: Third-year Mechanical Engineering Major
-description: I'm an undergraduate student at the University of California, Riverside with experience in CAD design, product development, and PLC programming. While my background is rooted in mechanical engineering, I’m currently exploring the world of electronics through hands-on projects that combine hardware, design, and embedded systems. My goal is to bridge the gap between mechanical design and smart technology and ultimately have fun with it. >- # dont remove this line. this will ignore all new lines until the next section
+name: John Doe
+headline: headline message
+description: >- # dont remove this line. this will ignore all new lines until the next section
   Write an awesome intro and discuss your highlights and qualification. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
